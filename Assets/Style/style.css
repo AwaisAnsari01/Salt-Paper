@@ -1,0 +1,81 @@
+/* color variable */
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000;
+}
+
+/* navbar styling */
+#navbar-items{
+    gap: 30px;
+}
+#navbar{
+    padding: 0px 10px;
+}
+
+#main-logo{
+    width: 165px;
+}
+.nav-link{
+    text-decoration: none;
+}
+#franchise{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#red{
+    color: var(--red);
+}
+#btn-icon{
+    padding: 5px 7px; 
+}
+
+#children-images{
+    gap: 30px;
+}
+.nav-link:hover{
+color: var(--red);
+}
+#main-logo{
+    cursor: pointer;
+}
+#franchise:hover{
+    color: var(--red);
+}
+#franchise-font{
+    font-family: 'Libre Baskerville', serif;
+}
+#islamabad-colour{
+    color: var(--red);
+    letter-spacing: 3px;
+    font-size:xx-large;
+}
+#get-direction{
+    background-color: transparent;
+    border: 2px solid white; 
+    padding: 15px 20px;
+    cursor: pointer;
+}
+.head-style{
+    font-size: xx-large;
+}
+.Express-franchise-city{
+    color: var(--red);
+    letter-spacing: 3px;
+    font-size:x-large;
+}
+.green{
+    background-color: green;
+    /* background-color: var(--red); */
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
