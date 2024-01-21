@@ -79,3 +79,6 @@ color: var(--red);
     padding: 15px 20px;
     cursor: pointer;
 }
+.Head{
+    font-size: 50px;
+}

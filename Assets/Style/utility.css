@@ -77,7 +77,7 @@
     margin-top: 20px;
 }
 .m-r{
-    margin-right: 70px;
+    margin-right: 75px;
 }
 
 /* margin classes end */
@@ -132,6 +132,20 @@
 .express-franchise-btn{
     margin-left: 75px;
 }
-
+.margin{
+    margin: 20px;
+}
+.li{
+   text-decoration: none;
+}
+.follow-us{
+font: 300px;
+background-color: red;
+padding: 5px;
+}
+.align{
+    text-align: end;
+    justify-content: end;
+}
 
 
