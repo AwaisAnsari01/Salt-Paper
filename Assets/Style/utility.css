@@ -147,5 +147,13 @@ padding: 5px;
     text-align: end;
     justify-content: end;
 }
+.express-location{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.text-justify{
+text-align: justify;
+
+}
 
 
