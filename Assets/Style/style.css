@@ -121,5 +121,58 @@ color: var(--red);
     
     
 }
+/* About-Page_ended */
+/* Get-a-Franchsie-Started */
+
+.Form-size{
+
+    height: 50px;
+    width: 500px;
+    color: #000000;
+}
+.hov-btn:hover{
+ color: #000000;
+}
+
+/* Get-a-Franchsie-Ended */
+/* About-Us-Page-Started */
+.Heading-size{
+font-size: 20 px;
+
+}
+/* About-Us-Page-Ended */
+/* Feed-back-Started */
+.rate{
+gap: 30px;
+justify-content: center;
+
+}
+#star-1:hover{
+    color: #f42625;
+    cursor: pointer;
+}
+#star-2:hover{
+    color: red;
+    cursor: pointer;
+
+}
+#star-3:hover{
+    color: red;
+    cursor: pointer;
+
+}
+#star-4:hover{
+    color: red;
+    cursor: pointer;
+
+}
+.col{
+    color: #f42625;
+}
+
+
+
+
+/* Feed-back-Ended */
 
 
